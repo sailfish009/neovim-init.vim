@@ -47,6 +47,7 @@ Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'metakirby5/codi.vim'
 Plug 'dkarter/bullets.vim'
+Plug '907th/vim-auto-save'
 
 " Entertainment
 "Plug 'ryanss/vim-hackernews'
@@ -127,6 +128,11 @@ let g:indentLine_color_gui = '#363949'
 " TagBar
 let g:tagbar_width = 30
 let g:tagbar_iconchars = ['↠', '↡']
+
+" vim autosave
+let g:auto_save = 1  " enable AutoSave on Vim startup
+let g:auto_save_silent = 1  " do not display the auto-save notification
+
 
 " fzf-vim
 let g:fzf_action = {

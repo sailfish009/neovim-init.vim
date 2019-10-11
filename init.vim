@@ -170,7 +170,7 @@ autocmd FileType markdown setlocal shiftwidth=2 tabstop=2 softtabstop=2
 autocmd FileType journal setlocal shiftwidth=2 tabstop=2 softtabstop=2
 
 " run python code in vim
-autocmd FileType python nnoremap <buffer> <F5> :exec '!python' shellescape(@%, 1)<cr>
+autocmd FileType python nnoremap <buffer> <F5> :exec '!python3' shellescape(@%, 1)<cr>
 
 """ Custom Functions
 

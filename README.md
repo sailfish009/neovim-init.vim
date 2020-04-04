@@ -10,6 +10,8 @@ Run `./install.sh`
 
 iron.nvim: https://github.com/Vigemus/iron.nvim
 
+alternative init.vim: https://github.com/languitar/config-vim/blob/master/home/.config/nvim/init.vim
+
 and 
 
 ```sh

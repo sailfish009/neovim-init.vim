@@ -8,6 +8,10 @@ Run `./install.sh`
 
 #### Manual Installation
 
+iron.nvim: https://github.com/Vigemus/iron.nvim
+
+and 
+
 ```sh
 #!/bin/bash -e
 

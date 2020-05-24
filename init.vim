@@ -45,6 +45,8 @@ Plug 'metakirby5/codi.vim'
 Plug 'dkarter/bullets.vim'
 Plug '907th/vim-auto-save'
 Plug 'chrisbra/csv.vim'
+Plug 'jpalardy/vim-slime', { 'for': 'python' }
+Plug 'hanschen/vim-ipython-cell', { 'for': 'python' }
 
 " Entertainment
 "Plug 'ryanss/vim-hackernews'

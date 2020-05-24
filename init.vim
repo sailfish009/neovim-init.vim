@@ -44,6 +44,7 @@ Plug 'honza/vim-snippets'
 Plug 'metakirby5/codi.vim'
 Plug 'dkarter/bullets.vim'
 Plug '907th/vim-auto-save'
+Plug 'chrisbra/csv.vim'
 
 " Entertainment
 "Plug 'ryanss/vim-hackernews'
